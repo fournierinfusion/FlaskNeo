@@ -4,3 +4,12 @@ jinja2==2.10
 markupSafe==1.0
 werkzeug==0.14.0
 py2neo==3.1.2
+future==0.16.0
+bcrypt==1.1.0
+cffi==0.8.6
+itsdangerous==0.24
+passlib==1.6.2
+py2neo==2.0.3
+pycparser==2.10
+six==1.9.0
+wsgiref==0.1.2
